@@ -1,4 +1,5 @@
 # DigiNet
+Hey There 👋. Relatively new to Deep Learning & PyTorch, so ya. Just started out
 Implementation of a multi-layer perceptron (MLP) built with PyTorch for classifying handwritten digits from the MNIST database.
 
 ## Features
